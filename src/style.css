@@ -10,7 +10,7 @@
 
 body {
   font-family: 'Segoe UI', system-ui, sans-serif;
-  background: rgb(58, 22, 22);
+  background: #f4f4f5;
   color: #18181b;
   min-height: 100vh;
   display: flex;
