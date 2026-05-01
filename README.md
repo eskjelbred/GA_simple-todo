@@ -16,6 +16,7 @@ Simple Todo CRUD er en enkel oppgaveliste der man kan opprette, lese, oppdatere 
 | `Intro-CRUD-(uten-innlogging)` | Grunnleggende CRUD uten autentisering            |
 | `Med-innlogging`               | Utvidet med innlogging og brukerhåndtering       |
 | `Med-URL-search-params`        | Navigasjon til enkeltoppgaver via URL-parametre  |
+| `env-import`                   | API-URL via environment variable (.env)           |
 
 ## Forutsetninger
 
